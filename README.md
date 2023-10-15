@@ -11,15 +11,3 @@ bb_hackai 13.01.23
 Ссылка на Google Collab:
 
 https://colab.research.google.com/drive/1g3KToRCCezZyFo1ZtD8Nxt3-QWppieVs?usp=sharing
-
-Алгоритм: 
-
----
-
-Описание модели:
-
----
-
-Как запустить модель: 
-
----
