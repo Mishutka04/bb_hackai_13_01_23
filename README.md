@@ -10,7 +10,7 @@ bb_hackai 13.01.23
 
 Ссылка на Google Collab:
 
-https://colab.research.google.com/drive/1coJbUeYBRZEbxM43TcfIUo7mG40N3PKF?usp=sharing
+https://colab.research.google.com/drive/1g3KToRCCezZyFo1ZtD8Nxt3-QWppieVs?usp=sharing
 
 Алгоритм: 
 
